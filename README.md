@@ -1,88 +1,121 @@
-🌱 Agrinho 2026 – Segurança Alimentar e Produção Sustentável
-📖 Sobre o Projeto
+Aqui está uma proposta completa e bem estruturada para o arquivo `README.md` do site do **Concurso Agrinho 2026**, baseada no código do projeto:
 
-Este projeto foi desenvolvido para o Concurso Agrinho 2026, abordando o tema "Segurança Alimentar e Produção Sustentável".
+---
 
-O site tem como objetivo conscientizar os visitantes sobre a importância da produção sustentável de alimentos, da preservação ambiental e do uso da tecnologia para garantir segurança alimentar às atuais e futuras gerações.
+# 🌾 Agrinho 2026 - Segurança Alimentar e Produção Sustentável
 
-Através de conteúdos informativos, estatísticas, notícias atualizadas e um quiz interativo, o projeto busca tornar o aprendizado mais acessível, dinâmico e envolvente.
+> **Status do Projeto:** 🚀 Concluído (Apresentado para o Concurso Agrinho)
+> **Tema:** *"Segurança Alimentar e Produção Sustentável: produzir mais alimentos, preservar o planeta e garantir qualidade de vida."*
 
-🎯 Objetivos
-Explicar o conceito de segurança alimentar;
-Demonstrar a importância da produção sustentável;
-Apresentar tecnologias utilizadas na agricultura moderna;
-Conscientizar sobre os desafios futuros relacionados à alimentação mundial;
-Incentivar práticas sustentáveis no campo e na sociedade.
+---
 
-🛠️ Tecnologias Utilizadas
+## 📋 Sobre o Projeto
 
-O projeto foi desenvolvido utilizando apenas as tecnologias permitidas pelo regulamento do concurso:
+Este site foi desenvolvido como uma ferramenta educacional e interativa para o **Concurso Agrinho 2026**. O objetivo principal é conscientizar as pessoas sobre a importância da segurança alimentar, os pilares do agronegócio e as técnicas de produção agrícola sustentável que protegem o nosso ecossistema.
 
-HTML5
-CSS3
-JavaScript
+A plataforma reúne dados atuais de órgãos internacionais (como a FAO e a ONU), um feed dinâmico de notícias do setor e um quiz interativo para testar o conhecimento do usuário.
 
-✨ Funcionalidades
-🌿 Interface Moderna
-Design responsivo para computadores, tablets e celulares;
-Layout inspirado em tendências modernas de desenvolvimento web;
-Efeitos visuais e animações suaves.
-🌙 Tema Claro e Escuro
-Alternância entre modo claro e modo escuro;
-Preferência salva automaticamente no navegador.
-📊 Indicadores Interativos
-Contadores animados;
-Barra de progresso de leitura;
-Efeitos de revelação ao rolar a página.
-📰 Notícias do Agro
-Seção com notícias relacionadas à segurança alimentar e sustentabilidade;
-Fontes confiáveis e conteúdos atuais.
-🧠 Quiz Educativo
-Perguntas sobre o tema do projeto;
-Correção automática;
-Resultado final com feedback ao usuário.
-📱 Responsividade
-Adaptação para diferentes tamanhos de tela;
-Menu mobile interativo.
-📚 Conteúdo Abordado
+---
 
-O site apresenta informações sobre:
+## ✨ Funcionalidades Principais
 
-Segurança Alimentar;
-Importância da alimentação adequada;
-Agricultura Familiar;
-Produção Sustentável;
-Agricultura de Precisão;
-Drones e Sensores Inteligentes;
-Mudanças Climáticas;
-Desperdício de Alimentos;
-Inovação Tecnológica no Campo.
+* **Design Responsivo & Fluido:** Interface totalmente adaptável para dispositivos móveis e desktops.
 
-🌎 Importância do Tema
-Garantir alimentos para uma população mundial em constante crescimento é um dos maiores desafios do século XXI.
 
-A produção sustentável permite aumentar a produtividade agrícola ao mesmo tempo em que preserva recursos naturais como:
-Solo;
-Água;
-Biodiversidade;
-Florestas.
+* **Alternador de Tema (Light/Dark Mode):** Suporte nativo a temas claro e escuro com persistência de escolha através do `localStorage`.
 
-Dessa forma, tecnologia, inovação e responsabilidade ambiental tornam-se fundamentais para a construção de um futuro mais sustentável.
 
-📖 Fontes de Pesquisa
-As informações utilizadas foram obtidas a partir de instituições e organizações reconhecidas nacional e internacionalmente:
+* **Loader Animado:** Tela de carregamento personalizada que melhora a experiência inicial do usuário.
 
-FAO (Organização das Nações Unidas para Alimentação e Agricultura)
-EMBRAPA
-Ministério da Agricultura e Pecuária
-Programa Mundial de Alimentos (WFP)
-ONU
-PNUMA
 
-👨‍💻 Autor
-Jean
-Projeto desenvolvido para participação no Concurso Agrinho 2026.
+* **Barra de Progresso de Leitura:** Indicador visual no topo da página que acompanha o scroll do usuário.
 
-🌱 Mensagem Final
 
-Produzir alimentos de forma sustentável não é apenas uma necessidade do presente, mas um compromisso com as futuras gerações. A segurança alimentar depende da união entre tecnologia, conhecimento, responsabilidade ambiental e valorização do trabalho no campo.
+* **Efeito Parallax:** Fundo imersivo na seção Hero para um visual moderno.
+
+
+* **Seções Dinâmicas e Interativas:**
+* *Infográfico de Produção Sustentável:* Explica práticas como rotação de culturas e plantio direto.
+
+
+* *Timeline de Inovação:* Exibe as principais tecnologias aplicadas no campo (Drones, Sensores, IA).
+
+
+* *Contadores de Estatísticas Animados:* Números e dados de impacto que ganham vida quando entram na tela.
+
+
+
+
+* **Feed de Notícias Dinâmico:** Seção alimentada via JavaScript com notícias reais sobre o cenário agro-sustentável do Brasil e do mundo.
+
+
+* **Quiz Interativo:** Um jogo de perguntas e respostas com validação de acertos/erros em tempo real e sistema de pontuação.
+
+
+
+---
+
+## 🛠️ Tecnologias Utilizadas
+
+O projeto foi construído utilizando tecnologias web fundamentais (Vanilla Architecture), garantindo leveza e alta performance:
+
+* **HTML5:** Estruturação semântica e acessibilidade.
+
+
+* **CSS3 (Variáveis & Modern Layouts):** Estilização, Flexbox, CSS Grid, e animações sob medida.
+
+
+* **JavaScript (ES6+):** Manipulação de DOM, consumo de dados estruturados locais (para notícias e quiz) e lógica de scroll.
+
+
+* **Font Awesome (v6.5.1):** Biblioteca de ícones vetoriais modernos.
+
+
+* **Google Fonts:** Tipografia utilizando a fonte *Poppins*.
+
+
+
+---
+
+## 📂 Estrutura de Arquivos
+
+```text
+├── index.html      # Estrutura principal da página e seções
+├── style.css       # Estilização global, temas e responsividade
+├── script.js       # Lógica do Quiz, Notícias, Dark Mode e Efeitos
+└── img/            # Recursos de imagens (ex: background do Hero)
+
+```
+
+---
+
+## 🧠 Detalhes de Implementação Importantes
+
+* **Efeito Reveal no Scroll:** Utiliza a API `IntersectionObserver` do JavaScript para disparar animações CSS de entrada apenas quando os elementos estão visíveis na tela, otimizando o desempenho.
+
+
+* **Contadores Progressivos:** A função `animateCounter` calcula de forma suave (`eased`) o crescimento numérico de estatísticas relevantes baseando-se no atributo `data-target` contido no HTML.
+
+
+
+---
+
+## 🧑‍💻 Créditos e Fontes
+
+* **Desenvolvedor:** Jean
+
+
+* **Fontes de Dados Utilizadas:**
+* FAO (Organização das Nações Unidas para Alimentação)
+
+
+* EMBRAPA
+
+
+* Ministério da Agricultura
+
+
+* Programa Mundial de Alimentos (WFP)
+
+
+* IBGE (Censo Agropecuário)
