@@ -1,7 +1,3 @@
-Aqui está uma proposta completa e bem estruturada para o arquivo `README.md` do site do **Concurso Agrinho 2026**, baseada no código do projeto:
-
----
-
 # 🌾 Agrinho 2026 - Segurança Alimentar e Produção Sustentável
 
 > **Status do Projeto:** 🚀 Concluído (Apresentado para o Concurso Agrinho)
